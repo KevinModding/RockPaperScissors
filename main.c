@@ -1,5 +1,5 @@
 /**********************************/
-/*		Rock, Paper, Scissors	  */
+/*	Rock, Paper, Scissors	  */
 /*      Made by: Kevin Modding    */
 /**********************************/
 
